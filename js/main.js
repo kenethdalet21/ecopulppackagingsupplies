@@ -1,4 +1,4 @@
-// LimTray Manufacturing - Main JavaScript
+// Ecopulp Packaging Supplies - Main JavaScript
 
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize all modules
